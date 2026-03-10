@@ -16,17 +16,6 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
 
-## Variables Measured
-
-The dataset includes the following morphological measurements:
-
-| Variable | Range |
-|----------|-------------|
-| `bill_length_mm` | [TODO: Include range] |
-| `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
-| `body_mass_g` | [TODO: Include range] |
-
 ## What the Analysis Does
 
 The R script `run_analysis_SOLUTIONS.R` performs the following steps:
