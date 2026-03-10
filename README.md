@@ -4,6 +4,7 @@ A reproducible analysis of morphological measurements from the Palmer Penguins d
 
 <img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
 
+hello
 
 ## About the Data
 
@@ -23,10 +24,10 @@ The dataset includes the following morphological measurements:
 
 | Variable | Range |
 |----------|-------------|
-| `bill_length_mm` | [TODO: Include range] |
+|  | [TODO: Include range] |
 | `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
-| `body_mass_g` | [TODO: Include range] |
+| `bill_length_mm`
+`body_mass_g` | [TODO: Include range] |
 
 ## What the Analysis Does
 
@@ -41,8 +42,7 @@ The R script `run_analysis_SOLUTIONS.R` performs the following steps:
 
 The analysis generates a multi-panel figure combining four plots:
 
-- **Top left:** [TODO: What does this plot show?]
-- **Top right:** [TODO: What does this plot show?]
+
 - **Bottom left:** [TODO: What does this plot show?]
 - **Bottom right:** [TODO: What does this plot show?]
 
@@ -57,7 +57,7 @@ penguin-analysis/
 ├── functions/
 │   ├── plotting_functions.R  ← [TODO: Describe what this file contains]
 │   └── saving_functions.R    ← [TODO: Describe what this file contains]
-└── run_analysis_SOLUTIONS.R  ← [TODO: Describe what this file does]
+└──   ← [TODO: Describe what this file does]
 ```
 
 ## How to Run
@@ -67,9 +67,7 @@ penguin-analysis/
 3. Run the script from top to bottom
 4. Outputs are saved to the `figures/` folder
 
-## Data Source
 
-Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarctica) penguin data.* R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/
 
 ## Authors
 
